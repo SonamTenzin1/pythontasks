@@ -1,0 +1,21 @@
+num1 = "a"
+num2 = "b"
+result = num1 > num2
+print(result)
+#both are string
+
+#a
+variable1 = True
+variable2 = False
+variable3 = False
+variable4 = False
+result = variable1 or variable2 or variable3 or variable4
+print(result)
+
+#b
+variable1 = True
+variable2 = False
+variable3 = False
+variable4 = False
+result = variable1 and variable2 and variable3 and variable4
+print(result)
